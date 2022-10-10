@@ -7,7 +7,7 @@ Kullanıcı çekmek istediği miktarı girer ve banknot olarak çıktısını al
 ------------------------------------------
 Öncelikle projeyi clonelayın.
 ```
-git clone https://github.com/OnurHocaoglu/kodluyoruzilkrepo.git
+git clone https://github.com/OnurHocaoglu/atm-paracekme.git
 ```
 ## Usage
 ----------------------------------------------------
@@ -15,7 +15,7 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 ```
-cd kodluyoruzilkrepo
+cd atm-paracekme
 code .
 ```
 
